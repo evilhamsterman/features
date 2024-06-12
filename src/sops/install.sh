@@ -15,7 +15,7 @@ $nanolayer_location \
     install \
     devcontainer-feature \
     "ghcr.io/devcontainers-contrib/features/gh-release:1.0.25" \
-    --option repo='mozilla/sops' --option binaryNames='sops' --option version="$VERSION"
+    --option repo='getsops/sops' --option binaryNames='sops' --option version="$VERSION"
     
 
 
